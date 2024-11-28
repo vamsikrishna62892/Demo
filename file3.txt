@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is file3
 ok thats fine
+=======
+For the purpose of conflict
+>>>>>>> newfeature
